@@ -3,7 +3,7 @@
 
 
 
-<center>
+
  ![Image](/images/profilepic.PNG)
-</center>
+
 
