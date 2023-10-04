@@ -4,6 +4,6 @@
 
 
 
- ![Image](InternScheduler/images/profilepic.PNG)
+ ![Image](/InternScheduler/images/profilepic.PN)
 
 
