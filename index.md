@@ -1,4 +1,7 @@
-## Welcome to GitHub Pages
+## Jacqueline Radding
+#Electrical Engineering Student at Cal Poly San Luis Obispo, President of Cal Poly IEEE, and Electrical Engineer at Cal Poly CubeSat
+
+Boss
 
 You can use the [editor on GitHub](https://github.com/jradding10/InternScheduler/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
